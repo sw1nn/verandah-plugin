@@ -7,5 +7,5 @@ license = "MIT"
 repository = "https://github.com/sw1nn/verandah-plugin"
 
 [dependencies]
-verandah-plugin-api = { git = "https://github.com/sw1nn/verandah-plugin-api.git", tag = "v0.2.0" }
-verandah-plugin-utils = { git = "https://github.com/sw1nn/verandah-plugin-utils.git", tag = "v0.2.1" }
+verandah-plugin-api = { git = "https://github.com/sw1nn/verandah-plugin-api.git", tag = "v0.3.0" }
+verandah-plugin-utils = { git = "https://github.com/sw1nn/verandah-plugin-utils.git", tag = "v0.4.0" }
