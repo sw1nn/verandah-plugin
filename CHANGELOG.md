@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v1.1.0 - 2026-02-24
+#### Features
+- (**deps**) update deps and cog config - (eaeb98d) - Neale Swinnerton
+
+- - -
+
 ## v1.0.0 - 2026-02-07
 #### Miscellaneous Chores
 - add cog.toml for cocogitto configuration - (8c3c96e) - Neale Swinnerton
