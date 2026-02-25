@@ -1715,8 +1715,8 @@ dependencies = [
 
 [[package]]
 name = "verandah-plugin-utils"
-version = "0.5.0"
-source = "git+https://github.com/sw1nn/verandah-plugin-utils.git?tag=v0.5.0#811ab4d722752662612f39e58d79c5ea0e034556"
+version = "0.5.1"
+source = "git+https://github.com/sw1nn/verandah-plugin-utils.git?tag=v0.5.1#e42bb247bd2cdff313e6109a6ca941521aa7d9b5"
 dependencies = [
  "ab_glyph",
  "fontconfig",
