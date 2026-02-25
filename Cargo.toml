@@ -1,11 +1,11 @@
 [package]
 name = "verandah-plugin"
-version = "1.1.0"
+version = "1.2.0"
 edition = "2024"
 description = "Convenience crate that re-exports verandah-plugin-api and verandah-plugin-utils"
 license = "MIT"
 repository = "https://github.com/sw1nn/verandah-plugin"
 
 [dependencies]
-verandah-plugin-api = { git = "https://github.com/sw1nn/verandah-plugin-api.git", tag = "v0.3.0" }
-verandah-plugin-utils = { git = "https://github.com/sw1nn/verandah-plugin-utils.git", tag = "v0.4.0" }
+verandah-plugin-api = { git = "https://github.com/sw1nn/verandah-plugin-api.git", tag = "v0.4.0" }
+verandah-plugin-utils = { git = "https://github.com/sw1nn/verandah-plugin-utils.git", tag = "v0.5.0" }
