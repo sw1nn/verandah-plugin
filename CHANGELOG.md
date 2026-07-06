@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v2.0.0 - 2026-07-06
+#### Features
+- <span style="background-color: #d73a49; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em;">BREAKING</span>re-export verandah-plugin-api v1.0.0 with action hook - (40fecb9) - Neale Swinnerton
+#### Miscellaneous Chores
+- add Justfile with release recipe - (a96ac7f) - Neale Swinnerton
+
+- - -
+
 ## v1.1.0 - 2026-02-24
 #### Features
 - (**deps**) update deps and cog config - (eaeb98d) - Neale Swinnerton
