@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v2.0.1 - 2026-07-06
+#### Bug Fixes
+- pin verandah-plugin-api v2.0.0 (version realignment, replaces v1.0.0) - (0a86c96) - Neale Swinnerton
+
+- - -
+
 ## v2.0.0 - 2026-07-06
 #### Features
 - <span style="background-color: #d73a49; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold; font-size: 0.85em;">BREAKING</span>re-export verandah-plugin-api v1.0.0 with action hook - (40fecb9) - Neale Swinnerton
