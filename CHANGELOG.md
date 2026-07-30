@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v2.1.0 - 2026-07-30
+#### Features
+- carry verandah-plugin-utils 0.7.0 with badge support - (b4a2942) - Neale Swinnerton
+#### Build system
+- depend on verandah-plugin-utils v0.7.0 - (244744a) - Neale Swinnerton
+
+- - -
+
 ## v2.0.1 - 2026-07-06
 #### Bug Fixes
 - pin verandah-plugin-api v2.0.0 (version realignment, replaces v1.0.0) - (0a86c96) - Neale Swinnerton
