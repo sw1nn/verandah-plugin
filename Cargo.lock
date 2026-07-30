@@ -1692,8 +1692,20 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "ba73ea9cf16a25df0c8caa16c51acb937d5712a8429db78a3ee29d5dcacd3a65"
 
 [[package]]
+name = "verandah-image"
+version = "0.1.0"
+dependencies = [
+ "ab_glyph",
+ "fontconfig",
+ "image",
+ "imageproc",
+ "serde",
+ "tracing",
+]
+
+[[package]]
 name = "verandah-plugin"
-version = "2.0.1"
+version = "2.1.0"
 dependencies = [
  "verandah-plugin-api",
  "verandah-plugin-utils",
@@ -1713,15 +1725,10 @@ dependencies = [
 
 [[package]]
 name = "verandah-plugin-utils"
-version = "0.6.0"
-source = "git+https://github.com/sw1nn/verandah-plugin-utils.git?tag=v0.6.0#f6922f9706565e9dc42f0f1a39fbd2cd1f5f9a5e"
+version = "0.7.0"
 dependencies = [
- "ab_glyph",
- "fontconfig",
- "image",
- "imageproc",
  "serde",
- "tracing",
+ "verandah-image",
 ]
 
 [[package]]
