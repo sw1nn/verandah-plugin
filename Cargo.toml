@@ -8,4 +8,4 @@ repository = "https://github.com/sw1nn/verandah-plugin"
 
 [dependencies]
 verandah-plugin-api = { git = "https://github.com/sw1nn/verandah-plugin-api.git", tag = "v2.0.0" }
-verandah-plugin-utils = { path = "../verandah-plugin-utils" }
+verandah-plugin-utils = { git = "https://github.com/sw1nn/verandah-plugin-utils.git", tag = "v0.7.0" }

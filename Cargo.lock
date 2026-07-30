@@ -1694,11 +1694,13 @@ checksum = "ba73ea9cf16a25df0c8caa16c51acb937d5712a8429db78a3ee29d5dcacd3a65"
 [[package]]
 name = "verandah-image"
 version = "0.1.0"
+source = "git+https://github.com/sw1nn/verandah-image.git?tag=v0.1.0#7df105363fe61c67bcb0a72a1944ee29826b0cc3"
 dependencies = [
  "ab_glyph",
  "fontconfig",
  "image",
  "imageproc",
+ "parking_lot",
  "serde",
  "tracing",
 ]
@@ -1726,6 +1728,7 @@ dependencies = [
 [[package]]
 name = "verandah-plugin-utils"
 version = "0.7.0"
+source = "git+https://github.com/sw1nn/verandah-plugin-utils.git?tag=v0.7.0#082fb96fb49998e7638e6839cf10db5757a238ec"
 dependencies = [
  "serde",
  "verandah-image",
