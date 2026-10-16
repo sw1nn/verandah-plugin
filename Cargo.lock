@@ -1707,7 +1707,7 @@ dependencies = [
 
 [[package]]
 name = "verandah-plugin"
-version = "2.1.0"
+version = "2.2.0"
 dependencies = [
  "verandah-plugin-api",
  "verandah-plugin-utils",

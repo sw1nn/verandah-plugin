@@ -2,6 +2,18 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v2.2.0 - 2026-10-16
+#### Features
+- (**release**) assert releases run from main - (ccfbea7) - Neale Swinnerton
+#### Documentation
+- (**release**) describe the release recipe - (cf772b5) - Neale Swinnerton
+#### Build system
+- depend on verandah-plugin-api v2.1.0 - (b0223b9) - Neale Swinnerton
+#### Miscellaneous Chores
+- add .gitattributes - (e37afe9) - Neale Swinnerton
+
+- - -
+
 ## v2.1.0 - 2026-07-30
 #### Features
 - carry verandah-plugin-utils 0.7.0 with badge support - (b4a2942) - Neale Swinnerton
