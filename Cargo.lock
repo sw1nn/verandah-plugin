@@ -1715,8 +1715,8 @@ dependencies = [
 
 [[package]]
 name = "verandah-plugin-api"
-version = "2.0.0"
-source = "git+https://github.com/sw1nn/verandah-plugin-api.git?tag=v2.0.0#977c7ec6bb3361c064b60cfe53591384f9d04663"
+version = "2.1.0"
+source = "git+https://github.com/sw1nn/verandah-plugin-api.git?tag=v2.1.0#a217525d4d32387675cc7264cc9701c66db75b2c"
 dependencies = [
  "abi_stable",
  "serde",
